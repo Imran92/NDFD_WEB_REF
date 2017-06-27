@@ -1,0 +1,10 @@
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.csprojResolveAssemblyReference.cache
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.Form1.resources
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.Properties.Resources.resources
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.csproj.GenerateResource.Cache
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\bin\Debug\NDFD_WEB_REF.exe.config
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\bin\Debug\NDFD_WEB_REF.exe
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\bin\Debug\NDFD_WEB_REF.pdb
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\bin\Debug\GoogleMaps.LocationServices.dll
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.exe
+c:\users\imran\documents\visual studio 2017\Projects\NDFD_WEB_REF\NDFD_WEB_REF\obj\Debug\NDFD_WEB_REF.pdb
